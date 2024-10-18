@@ -1,0 +1,5 @@
+[package]
+version = "1.0.0"
+authors = ["Christoph van Deest"]
+license = "MIT"
+repository = "https://github.com/ChristophVanDeest/FH-Kiel-Typst-Template"

@@ -1,0 +1,10 @@
+[package]
+name = "fh-kiel-bachelor-thesis"
+entrypoint = "lib.typ"
+description = "Unofficial template for writing a bachelor-thesis in the FH Kiel department of Computer Science design."
+categories = ["thesis"]
+
+[template]
+path = "src"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"

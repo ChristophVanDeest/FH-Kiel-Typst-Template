@@ -1,0 +1,5 @@
+[package]
+name = "fh-kiel"
+entrypoint = "lib.typ"
+description = "Unofficial template for writing a report or thesis in the FH Kiel department of Computer Science design."
+categories = ["report", "thesis"]
